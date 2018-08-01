@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stream", "Stream\Stream.csproj", "{31E16A6F-E626-4D3F-8109-1D8DECEDEDF0}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSFirstmeet", "FSFirstmeet\FSFirstmeet.fsproj", "{C9864EFD-92E6-4C6C-96B4-5863CE8C3715}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuple", "Tuple\Tuple.csproj", "{20C6D952-9F25-4C60-A27A-FC2DFADCCC5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{31E16A6F-E626-4D3F-8109-1D8DECEDEDF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31E16A6F-E626-4D3F-8109-1D8DECEDEDF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31E16A6F-E626-4D3F-8109-1D8DECEDEDF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9864EFD-92E6-4C6C-96B4-5863CE8C3715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9864EFD-92E6-4C6C-96B4-5863CE8C3715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9864EFD-92E6-4C6C-96B4-5863CE8C3715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9864EFD-92E6-4C6C-96B4-5863CE8C3715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C6D952-9F25-4C60-A27A-FC2DFADCCC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C6D952-9F25-4C60-A27A-FC2DFADCCC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C6D952-9F25-4C60-A27A-FC2DFADCCC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C6D952-9F25-4C60-A27A-FC2DFADCCC5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
