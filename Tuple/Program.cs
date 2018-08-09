@@ -23,10 +23,6 @@ namespace Tuple
             Console.WriteLine(sum);
             Console.WriteLine(muti);;
 
-            Console.WriteLine("두 숫자 입력");
-            int.TryParse(Console.ReadLine(), out a);
-            int.TryParse(Console.ReadLine(), out b);
-
             Console.ReadKey();
         }
 

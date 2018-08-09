@@ -9,6 +9,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSFirstmeet", "FSFirstmeet\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuple", "Tuple\Tuple.csproj", "{20C6D952-9F25-4C60-A27A-FC2DFADCCC5D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pointer", "Pointer\Pointer.csproj", "{327C99F1-F457-46C2-A25E-136BAF4BF6C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{20C6D952-9F25-4C60-A27A-FC2DFADCCC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20C6D952-9F25-4C60-A27A-FC2DFADCCC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20C6D952-9F25-4C60-A27A-FC2DFADCCC5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{327C99F1-F457-46C2-A25E-136BAF4BF6C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327C99F1-F457-46C2-A25E-136BAF4BF6C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327C99F1-F457-46C2-A25E-136BAF4BF6C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327C99F1-F457-46C2-A25E-136BAF4BF6C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
